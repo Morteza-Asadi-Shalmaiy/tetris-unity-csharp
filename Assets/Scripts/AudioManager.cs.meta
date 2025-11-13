@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d4ee8f59ddf896849846130de1cfd92d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundMusic: {fileID: 8300000, guid: 7f8bfba1e1ef16547a7a4ab6f6322d10, type: 3}
+  - gameOverMusic: {instanceID: 0}
+  - lineClearSound: {instanceID: 0}
+  - tetrominoRotateSound: {instanceID: 0}
+  - tetrominoMoveSound: {instanceID: 0}
+  - tetrominoLandSound: {instanceID: 0}
+  - tetrominoHardDropSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
