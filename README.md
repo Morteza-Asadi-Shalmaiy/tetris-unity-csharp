@@ -25,7 +25,7 @@ A modernized Tetris clone built in **Unity** using **C#**, inspired by the tutor
    git clone https://github.com/Morteza-Asadi-Shalmaiy/tetris-unity-csharp.git
 2. Open the project in Unity 2020.2.7f1 or newer
 3. Open the `MainScene` and press ▶️ to play
-   
+
 ---
 
 ##💾 Downloads
